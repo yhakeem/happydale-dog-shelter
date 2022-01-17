@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100i,300,400,500,800&display=swap');
+
+* {
+  font-family: 'Montserrat';
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  border: .1rem solid turquoise;
+  padding: 1rem;
+  background-color: rgb(62, 59, 59);
+  color: white;
+  height: 100vh;
+}
+
+header {
+  /* your code */
+}
+
+main {
+  /* your code */
+}
+main nav {
+  border: .1rem solid purple;
+  padding: 1rem;
+  /* your code */
+}
+main a {
+  width: 5rem;
+  border: .1rem solid peru;
+  text-align: center;
+  margin: .5rem 0rem;
+}
+
+.dog-list-container {
+  /* your code */
+}
+
+.fluid-text {
+  font-size: 2rem;
+}
+
+.desktop-nav {
+  display:block;
+}
+
+.single-dog-card {
+  padding: 1rem;
+  max-width: 20rem;
+  border: 2px solid peru;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+.single-dog-card img {
+  width: 15rem;
+  display: block;
+}
+
+a {
+  color: white;
+}
